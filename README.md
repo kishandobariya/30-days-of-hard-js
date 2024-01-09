@@ -1,5 +1,3 @@
-# 30-days-of-hard-js
-
 Welcome to the "30 Days of Hard JS Challenge" repository! 🚀
 
 ## Overview
@@ -53,5 +51,10 @@ Ready to embark on this coding journey? Let's make the next 30 days an unforgett
 Challenge 1 - OUTPUT
 ---------------------
 ![image](https://github.com/kishandobariya/30-days-of-hard-js/assets/84724348/d62f0b30-6304-4a33-9d92-3a5bc3c025ac)
+
+Challenge 2 - OUTPUT
+---------------------
+![image](https://github.com/kishandobariya/30-days-of-hard-js/assets/84724348/ae67f8ba-814b-410f-b4dd-6e94213239a8)
+
 
 
