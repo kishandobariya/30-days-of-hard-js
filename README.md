@@ -49,3 +49,9 @@ Join our group discussions and updates:
 Ready to embark on this coding journey? Let's make the next 30 days an unforgettable experience! 💻✨
 
 # JavaScript #CodingChallenge #30DaysofHardJS
+
+Challenge 1 - OUTPUT
+---------------------
+![image](https://github.com/kishandobariya/30-days-of-hard-js/assets/84724348/d62f0b30-6304-4a33-9d92-3a5bc3c025ac)
+
+
